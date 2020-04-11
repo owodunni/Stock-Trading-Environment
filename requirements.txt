@@ -1,0 +1,4 @@
+gym
+pandas
+stable-baselines
+tensorflow
